@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SnackBar Order Flow
 
 🚧 **Status:** Actively in development
@@ -60,3 +61,6 @@ Order added successfully!
 New features and improvements are currently in development.
 
 This project will continue evolving with new functionalities and structural improvements.
+=======
+
+>>>>>>> 13979634275773abc0929cadec355f1a7d6ccfde
